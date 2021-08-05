@@ -1,1 +1,1 @@
-gatsby site powered by react
+Gatsby Site Powered by React
